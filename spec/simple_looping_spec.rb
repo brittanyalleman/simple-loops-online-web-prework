@@ -23,6 +23,7 @@ until counter == 7
  end
 
 welcome_to_flatiron = 1..7
+
 for welcome in welcome_to_flatiron
   puts "Welcome to Flatiron School\'s Web Development Course!"
  end

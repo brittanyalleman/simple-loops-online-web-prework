@@ -22,7 +22,7 @@ until counter == 7
   counter += 1
  end
 
-welcome_to_flatiron = < 7
+welcome_to_flatiron =7
 
 for welcome in welcome_to_flatiron
   puts "Welcome to Flatiron School\'s Web Development Course!"

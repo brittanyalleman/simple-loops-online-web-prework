@@ -13,18 +13,18 @@ loop do
 
 welcome_to_flatiron = 0
  while welcome_to_flatiron <7
-  puts "Welcome to Flatiron School\'s Web Development Course! #{welcome_to_flatiron}"
+  puts "Welcome to Flatiron School's Web Development Course! #{welcome_to_flatiron}"
   welcome_to_flatiron += 1
 
 counter = 0
 until counter == 7
-  puts "prints out Welcome to Flatiron School\'s Web Development Course!"
+  puts "prints out Welcome to Flatiron School's Web Development Course!"
   counter += 1
  end
 
 welcome_to_flatiron =7
 
 for welcome in welcome_to_flatiron
-  puts "Welcome to Flatiron School\'s Web Development Course!"
+  puts "Welcome to Flatiron School's Web Development Course!"
  end
 end

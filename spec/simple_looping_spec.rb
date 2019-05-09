@@ -15,7 +15,7 @@ welcome_to_flatiron = 0
  while welcome_to_flatiron <7
   puts "Welcome to Flatiron School\'s Web Development Course! #{welcome_to_flatiron}"
   welcome_to_flatiron += 1
-  
+
 counter = 0
 until counter == 7
   puts "prints out Welcome to Flatiron School\'s Web Development Course!"
